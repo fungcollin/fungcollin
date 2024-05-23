@@ -3,7 +3,7 @@ Hi, I am Collin Fung. Current BCIT CIT student focused on exploring and harnessi
 
 ## About Me
 
-With background in Accounting and Banking, I bring a unique combination of displine, strategic vision, and technical prowess to the software world. My passion lies with learning and exploring software solutions, connecting it with making life easier. 
+With background in Accounting and Banking, I bring a unique combination of displine, strategic vision, and technical prowess to the software world. My passion lies with learning and exploring software solutions, connecting it to daily interaction. 
 
 ## Connect with Me
 
