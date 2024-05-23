@@ -1,5 +1,6 @@
 Hi, I am Collin Fung. Current BCIT CIT student focused on exploring and harnessing coding knowledge to make an innovative impact in the tech industry and beyond. 
 
+
 About Me
 __________________________________________________________________________
 
